@@ -43,9 +43,7 @@ const Navbar = () => {
               <NavLink to="/prediction" onClick={closeMenu}>
                 <span className="text-black">PREDICTION</span>
               </NavLink>
-              <NavLink to="/visualization" onClick={closeMenu}>
-                <span className="text-black">VISUALIZATION</span>
-              </NavLink>
+             
               <NavLink to="/contact" onClick={closeMenu}>
                 <span className="text-black">CONTACT_US</span>
               </NavLink>
@@ -97,9 +95,6 @@ const Navbar = () => {
               </NavLink>
               <NavLink to="/prediction" onClick={closeMenu}>
                 <span className="text-black">PREDICTION</span>
-              </NavLink>
-              <NavLink to="/visualization" onClick={closeMenu}>
-                <span className="text-black">VISUALIZATION</span>
               </NavLink>
               <NavLink to="/contact" onClick={closeMenu}>
                 <span className="text-black">CONTACT_US</span>

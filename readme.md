@@ -6,8 +6,6 @@ Welcome to our Diabetes Prediction Website! Our platform offers a unique opportu
 
 <br>
 
-**Website Link** :- https://diabetes-prediction-gamma.vercel.app/
-
 <br>
 
 <div>
